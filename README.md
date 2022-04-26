@@ -2,7 +2,7 @@
 My name is 😊 Aziel Pascoal, I'm a mobile developer from Angola🇦🇴 , but sometimes I work with web development and as a backend developer, I love studying programming tec
 I´m passionate about solving problems and learning. Always ope to new challenges and ready to face changes.
   #### "" Technologies & Contributions ""
-<div align="center">
+<div align="left">
 
   <a href="https://github.com/azielpascoal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azielpascoal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,6 +13,8 @@ I´m passionate about solving problems and learning. Always ope to new challenge
   <img align="center" alt="Aziel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       
   <img align="center" alt="Aziel-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+            
+  <img align="center" alt="Aziel-React-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Aziel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aziel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Aziel-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
