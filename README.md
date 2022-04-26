@@ -2,7 +2,7 @@
 My name is 😊 Aziel Pascoal, I'm a mobile developer from Angola🇦🇴 , but sometimes I work with web development and as a backend developer, I love studying programming tec
 I´m passionate about solving problems and learning. Always ope to new challenges and ready to face changes.
   #### "" Technologies & Contributions ""
-<div align="left">
+<div align="center">
 
   <a href="https://github.com/azielpascoal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azielpascoal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
